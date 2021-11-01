@@ -13,27 +13,32 @@ Custom Valorant Background changer
 <img src="files\riot.PNG" alt="">
 4. step one finished  
 <img src="files\valorant.PNG" alt="">
+
 ### 2. Navigate to Valorant Movies Directory
 1. navigate to: Valorant --> live --> ShooterGame --> Content --> Movies --> Menu  
 <img src="files\movies.PNG" alt="">
+
 ### 3. Copy the orginal Movie File
 1. copy homescreen.mp4  
 <img src="files\homescreen.PNG" alt="">
 2. navigate to where you chose to put the valorant background changer file and copy the file into Normal_video  
 <img src="files\normallvideo.PNG" alt="">
 <img src="files\replace file in destation.PNG" alt="">
+
 ### 4. Copy your video file of choice
 1. download your video file of choice and copy it.
 2. paste it into Chosen_video and rename it to: HomeScreen.mp4  
 <img src="files\Customhome screen.PNG" alt="">
-### 4. make a shortcut for the aplication:
+
+### 5. make a shortcut for the aplication:
 1. navigate to where you have the application files stored and right click on valorant_background_changer.exe and create a shortcut  
 <img src="files\shortcut.PNG" alt="">
 2. copy the shortcut
 3. open start menu and search valorant then click on open file location
 4. paste the file with the rest of the shortcuts  
 <img src="files\valorant short cut directory.PNG" alt="">
-### 5. Run the aplication via the start menu  
+
+### 6. Run the aplication via the start menu  
 <img src="files\Desktop Screenshot 2021.11.01 - 15.50.59.75.png" alt="">
 <img src="files\application.png" alt="">
 <img src="files\Valorant Screenshot 2021.11.01 - 15.55.16.70.png" alt="">
