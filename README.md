@@ -3,6 +3,9 @@ Custom Valorant Background changer
 
 # I AM NOT RESPOSIBLE FOR ANY BANS REALED TO USING MY APPPLICATION THIS CODE CHANGES SOME GAME FILES
 
+# Download here
+<a href="https://github.com/The-Drobe/Custom-Valorant-Background/releases">https://github.com/The-Drobe/Custom-Valorant-Background/releases</a>
+
 # Setup Guide
 ### 1. Navigate to your valorant install directory
 1. open start menu and search valorant then click on open file location  
@@ -59,3 +62,6 @@ Custom Valorant Background changer
 <img src="files\valorantinstalldirectory.PNG" alt="">
 
 # Any issues please open an issue in the issues section
+
+# support me
+eth: 0xb1b67C3f1ed1E216d97d624325fa8E274e6117aF
